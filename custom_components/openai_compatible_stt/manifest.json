@@ -1,0 +1,12 @@
+{
+  "domain": "openai_compatible_stt",
+  "name": "OpenAI Compatible STT",
+  "codeowners": ["@michelle-avery"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/michelle-avery/openai-compatible-stt/",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/michelle-avery/openai-compatible-stt/issues",
+  "requirements": ["openai==1.35.7"],
+  "version": "0.0.1"
+}

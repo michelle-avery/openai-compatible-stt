@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Add speech-to-text engine",
+        "description": "Provide configuration data. See documentation for further info.",
+        "data": {
+          "api_key": "Enter API key.",
+          "model": "Select model to be used.",
+          "url": "Enter the OpenAI-compatible endpoint. Optionally include a port number."
+        }
+      }
+    },
+    "error": {
+      "wrong_api_key": "Invalid API key. Please enter a valid API key.",
+      "already_configured": "This model and endpoint are already configured."
+    },
+    "abort": {
+      "already_configured": "This model and endpoint are already configured."
+    }
+  }
+}
