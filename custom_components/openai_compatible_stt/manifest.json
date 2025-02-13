@@ -7,6 +7,6 @@
   "documentation": "https://github.com/michelle-avery/openai-compatible-stt/",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/michelle-avery/openai-compatible-stt/issues",
-  "requirements": ["openai==1.35.7"],
-  "version": "0.0.1"
+  "requirements": ["openai>=1.61.0"],
+  "version": "0.0.2"
 }
